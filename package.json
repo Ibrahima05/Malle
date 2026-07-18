@@ -1,0 +1,11 @@
+{
+  "name": "sans-frontiere-lavage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site vitrine statique pour Sans Frontière, lavage mobile auto, moto et tapis.",
+  "scripts": {
+    "start": "python3 -m http.server 4173",
+    "serve": "python3 -m http.server 4173",
+    "test": "node scripts/check-site.js"
+  }
+}
